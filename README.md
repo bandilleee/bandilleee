@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 <br>
 **✨ Tech stacks currently using** <br>
 <br>
-<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></a></code> 
-<code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></a></code>
-<code><a href="https://www.npmjs.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21~bgwhite.svg"></a></code>
+<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></a></code> 
+<code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"></a></code>
+<code><a href="https://www.npmjs.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <br>
